@@ -1,7 +1,3 @@
-Claro\! Abaixo está um texto em formato *plain text* (texto plano) que você pode copiar e colar diretamente em um arquivo `README.md` no GitHub.
-
-Ele contém a descrição, a listagem de entidades/relacionamentos e o script Cypher para configurar o banco de dados de grafos do serviço de streaming.
-
 -----
 
 ````
