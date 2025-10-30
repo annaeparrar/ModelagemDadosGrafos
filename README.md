@@ -24,6 +24,8 @@
 * **(Diretor)-[:DIRIGIU]->(Filme/Serie)**
 * **(Filme/Serie)-[:TEM_GENERO]->(Genero)**
 
+![Descrição da Imagem](nos.png)
+
 ## 2. SCRIPT DE CRIAÇÃO EM CYPHER
 
 O script abaixo cria a estrutura do modelo e popula o grafo com mais de 10 usuários, 10 atores e 10 títulos (Filmes/Séries).
